@@ -11,11 +11,6 @@ An AI-native terminal Markdown editor written in Python.
 
 Queyntisen started as a simple terminal editor, but I later redesigned it into something closer to a lightweight, terminal-first Obsidian alternative. It supports Markdown editing, preview/source modes, threaded writing workflows, and built-in AI assistant features.
 
-### Yakindo
-A location-based anonymous social/chat application built with a Kotlin/Jetpack Compose Android frontend and a Node.js backend.
-
-The project explores real-time messaging, social discovery, authentication, and backend architecture.
-
 ### Aria
 A desktop AI companion/chat application focused on memory, mood, diary-like state, and persistent character behavior.
 
